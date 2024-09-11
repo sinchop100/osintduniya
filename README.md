@@ -1,6 +1,6 @@
-# OSINT Search CLI
+# OSINT Duniya
 
-A Python-based CLI tool that uses the OSINT Industries API to search for usernames, emails, and phone numbers. This tool generates a unique virtual user ID and device ID for each user and supports session cookies and user-agent headers for API requests.
+A Python-based osint duniya tool that uses the OSINT Industries API to search for usernames, emails, and phone numbers. This tool generates a unique virtual user ID and device ID for each user and supports session cookies and user-agent headers for API requests.
 
 ## Features
 - Search for user details using a username, email, or phone number.
@@ -17,5 +17,5 @@ A Python-based CLI tool that uses the OSINT Industries API to search for usernam
 ### 1. Clone the Repository
 
 ```bash
-git clone (https://github.com/sinchop100/osintduniya.git)]
+git clone https://github.com/sinchop100/osintduniya.git
 cd osintduniya
