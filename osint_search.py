@@ -2,7 +2,7 @@ import requests
 import uuid  # For generating virtual user IDs
 
 # Your OSINT API Key
-OSINT_API_KEY = '7eabdc5f4568eed060134fe9a487230b'
+OSINT_API_KEY = 'enter your key'
 BASE_URL = 'https://api.osint.industries/v1/search'
 
 # Create a session object to store cookies
