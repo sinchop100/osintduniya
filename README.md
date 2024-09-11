@@ -17,5 +17,5 @@ A Python-based CLI tool that uses the OSINT Industries API to search for usernam
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/osint_search_cli.git
-cd osint_search_cli
+git clone (https://github.com/sinchop100/osintduniya.git)]
+cd osintduniya
