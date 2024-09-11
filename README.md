@@ -19,3 +19,5 @@ A Python-based osint duniya tool that uses the OSINT Industries API to search fo
 ```bash
 git clone https://github.com/sinchop100/osintduniya.git
 cd osintduniya
+pip install -r requirements.txt
+python osint_search.py
